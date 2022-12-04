@@ -1,0 +1,6 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.CHLauncher" parent="android:Theme.Material.Wallpaper.NoTitleBar">
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
